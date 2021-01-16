@@ -1,7 +1,7 @@
 # HAR-CNN-Classifier
 Homework
 # 使用方法
-先打開README
+先打開期末專題報告README
 
 再打開主要介紹
 
