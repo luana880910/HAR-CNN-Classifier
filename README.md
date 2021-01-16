@@ -1,0 +1,2 @@
+# HAR-CNN-Classifier
+Homework
